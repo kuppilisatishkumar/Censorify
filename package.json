@@ -1,0 +1,19 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "Censoring the words out of given text",
+  "main": "censorText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SatishKuppili",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuppilisatishkumar/Censorify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kuppilisatishkumar/Censorify/issues"
+  },
+  "homepage": "https://github.com/kuppilisatishkumar/Censorify#readme"
+}
